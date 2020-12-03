@@ -1,2 +1,4 @@
 # Project exclude paths
 /mall-es/target/
+/.idea
+/*.iml
